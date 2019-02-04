@@ -39,17 +39,17 @@ P.S. More about how to test Azure functions locally you can read [here](https://
 Second, if you use development storage you have to setup Azure Storage Emulator. See [Use the Azure storage emulator for development and testing](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) and [Configuring and Using the Storage Emulator with Visual Studio](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-emulator-using).
 
 Third, build solution and run it with local Azure Functions runtime: 
-![](https://github.com/mabravc/BackupFolderAzureDurableFunctionDemo/blob/master/res/function_local_runtime_1.jpg)
+![](https://github.com/matjazbravc/BackupFolder-AzureFunction-Demo/blob/master/res/function_local_runtime_1.jpg)
 
 And when function is finished, you should receive succeed status:
-![](https://github.com/mabravc/BackupFolderAzureDurableFunctionDemo/blob/master/res/function_local_runtime_2.jpg)
+![](https://github.com/matjazbravc/BackupFolder-AzureFunction-Demo/blob/master/res/function_local_runtime_2.jpg)
 
 Finally test it with [Postman](https://getpostman.com):
-![](https://github.com/mabravc/BackupFolderAzureDurableFunctionDemo/blob/master/res/postman_function_test.jpg)
+![](https://github.com/matjazbravc/BackupFolder-AzureFunction-Demo/blob/master/res/postman_function_test.jpg)
 
 Results you can check easy with excellent Azure Storage Explorer [(you can download it for free)](https://azure.microsoft.com/en-us/features/storage-explorer/):
-![](https://github.com/mabravc/BackupFolderAzureDurableFunctionDemo/blob/master/res/ms_storage_emulator_1.jpg)
-![](https://github.com/mabravc/BackupFolderAzureDurableFunctionDemo/blob/master/res/ms_storage_emulator_2.jpg)
+![](https://github.com/matjazbravc/BackupFolder-AzureFunction-Demo/blob/master/res/ms_storage_emulator_1.jpg)
+![](https://github.com/matjazbravc/BackupFolder-AzureFunction-Demo/blob/master/res/ms_storage_emulator_2.jpg)
 
 Enjoy!
 

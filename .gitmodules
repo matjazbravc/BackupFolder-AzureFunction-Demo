@@ -1,0 +1,4 @@
+[submodule "Common.Libraries"]
+	path = Common.Libraries
+	url = https://github.com/mabravc/Common.Libraries.git
+	branch = master

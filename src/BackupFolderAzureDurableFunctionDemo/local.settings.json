@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "Logging.Storage.TableName": "BackupFolderLog",
+    "BackupFolder.TableName": "BackupFolder",
+    "BackupFolder.ContainerName": "backupfolder",
+    "StorageAccount.ConnectionString": "UseDevelopmentStorage=true"
+  }
+}
